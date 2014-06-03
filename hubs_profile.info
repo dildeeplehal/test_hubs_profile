@@ -1,0 +1,32 @@
+name = HUBS
+description = Install profile for the HUBS project
+core = 7.x
+exclusive = 1
+
+; Dependencies: Core modules
+; ==============================================================================
+; Alphabetical order please.
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = comment
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Dependencies: Contrib modules
+; ==============================================================================
+; Alphabetical order please.
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+
+; Dependencies: Custom modules
+; ==============================================================================
+; Alphabetical order please.
+

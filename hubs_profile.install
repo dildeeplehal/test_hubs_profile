@@ -1,0 +1,10 @@
+<?php
+/**
+ * Implement hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ */
+// function hubs_profile_install() {
+// 	include_once DRUPAL_ROOT . '/profiles/hubs_profile/hubs_profile.install';
+// 	hubs_profile_install();
+// }
