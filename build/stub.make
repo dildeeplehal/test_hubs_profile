@@ -18,4 +18,4 @@ projects[drupal][patch][] = "http://drupal.org/files/fapi-radio-checkbox-error-h
 projects[hubs_profile][type] = profile
 projects[hubs_profile][download][type] = git
 projects[hubs_profile][download][url] = git@github.com:dildeeplehal/test_hubs_profile.git
-projects[hubs_profile][download][branch] = dev
+projects[hubs_profile][download][branch] = master
