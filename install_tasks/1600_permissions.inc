@@ -7,6 +7,6 @@
 **/
 
 
-function microgen_profile_permissions_task() {
+function hubs_profile_permissions_task() {
 
 }
