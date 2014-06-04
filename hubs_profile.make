@@ -33,3 +33,6 @@ projects[bootstrap][download][url] = "http://ftp.drupal.org/files/projects/boots
 ; Other Libraries (alphabetical order please)
 ; ==============================================================================
 
+libraries[Jcrop][download][type] = "get"
+libraries[Jcrop][download][url] = "https://github.com/tapmodo/Jcrop/archive/v0.9.12.zip"
+libraries[Jcrop][directory_name] = "Jcrop"
